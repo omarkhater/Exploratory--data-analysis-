@@ -1,4 +1,4 @@
-# Explotary-data-analysis-
+# Exploratory -data-analysis-
 Exploring MOSFET Transistor characteristics using dataset collected from advanced circuit simulators. This dataset is collected using advanced micro-electronics simulator called Spectre Provided by Cadence. The device used in this analysis is BSIM3 models for a typical 180-nm CMOS process. 
 
 Key Findings: 
